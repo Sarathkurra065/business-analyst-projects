@@ -23,3 +23,19 @@ This is my first Business Analyst project where I analyzed sales data for an onl
 ---
 
 Feel free to explore the files and reach out if you have questions or feedback!
+## 🧪 Project 2: Customer Support Ticket Analysis
+
+This project analyzes customer support ticket data to identify delays, common issue types, and opportunities to improve response time. It includes data exploration, resolution time analysis, and actionable recommendations.
+
+### 📂 Files Included
+- `customer_support_tickets.csv`: Dataset of support tickets used for analysis  
+- `Customer_Support_Ticket_Analysis_Report.docx`: Full report with findings and recommendations
+
+### 🛠 Tools Used
+- Microsoft Excel / Google Sheets (data analysis)
+- Word / Google Docs (report writing)
+
+### 🔍 What I Did
+- Explored status, categories, and priorities of tickets
+- Calculated resolution time and flagged unresolved tickets
+- Created a report with insights and next-step suggestions
