@@ -39,3 +39,17 @@ This project analyzes customer support ticket data to identify delays, common is
 - Explored status, categories, and priorities of tickets
 - Calculated resolution time and flagged unresolved tickets
 - Created a report with insights and next-step suggestions
+- ## 📦 Project 3: E-commerce Product Returns Analysis
+
+This project analyzes product return data to identify issues in product sizing, delivery regions, and customer behavior. It includes pivot table analysis, patterns in return reasons, and business recommendations.
+
+### 📂 Files Included
+- `ecommerce_returns_analysis.csv`: Dataset of product returns
+- `Ecommerce_Product_Returns_Report.docx`: Business report with insights and recommendations
+
+### 🔍 Key Skills Used
+- Data analysis with Excel
+- Pattern recognition
+- Root-cause thinking
+- Clear written communication
+
